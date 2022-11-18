@@ -1,0 +1,14 @@
+.theButton {}
+.theInput {}
+.list {background-color: cyan;
+    border-style: dotted;
+    width: 300px;
+    display: inline-block;
+}
+li:hover {
+        font-weight: bold;
+        cursor: pointer;
+    }
+
+.li {height: 200px;}
+.str {text-decoration: line-through;}
